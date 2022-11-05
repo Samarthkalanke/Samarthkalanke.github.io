@@ -4,4 +4,16 @@ title: 'World History Project by Samarth Kalanke, Harsha Jai, Yuri '
 published: true
 ---
 
-# New Technology in Weaponry
+## Technologies of WWI
+
+### Poison Gas
+
+### Submarines
+
+### Machine Guns
+
+
+
+
+
+
