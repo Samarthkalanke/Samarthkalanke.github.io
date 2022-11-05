@@ -1,7 +1,7 @@
 ---
 layout: post
-title: You're up and running!
+title: 'World History Project by Samarth Kalanke, Harsha Jai, Yuri '
 published: true
 ---
 
-world history
+# The Technological Advances of World War I 
