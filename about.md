@@ -5,12 +5,9 @@ permalink: /about/
 published: true
 ---
 
-Some information about you!
+## References
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+- https://www.loc.gov/collections/world-war-i-rotogravures/articles-and-essays/military-technology-in-world-war-i/
+- https://www.iwm.org.uk/history/how-modern-weapons-changed-combat-in-the-first-world-war
+- https://www.warmuseum.ca/firstworldwar/history/battles-and-fighting/weapons-on-land/trench-weapons/
+- https://www.ncpedia.org/wwi-technology-and-weapons-war
