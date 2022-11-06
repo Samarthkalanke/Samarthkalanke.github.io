@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'World History Project by Samarth Kalanke, Harsha Jai, Yuri '
+title: 'World History Project by Samarth Kalanke, Harsha Jai, Yuri Subramaniam'
 published: true
 ---
 
@@ -11,9 +11,3 @@ published: true
 ### Submarines
 
 ### Machine Guns
-
-
-
-
-
-
