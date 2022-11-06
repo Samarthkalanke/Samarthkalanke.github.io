@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-## References
+## Web References
 
 - https://www.loc.gov/collections/world-war-i-rotogravures/articles-and-essays/military-technology-in-world-war-i/
 - https://www.iwm.org.uk/history/how-modern-weapons-changed-combat-in-the-first-world-war
