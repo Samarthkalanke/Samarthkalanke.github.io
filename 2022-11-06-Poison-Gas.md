@@ -1,4 +1,4 @@
-## Poisonn Gas
+
 <img src="/images/wwi-mask.gif" height = "25%" width= "25%" />
 ### What is Poison Gas?
 
