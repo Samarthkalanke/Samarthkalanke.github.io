@@ -10,7 +10,7 @@
 ![]({{site.baseurl}}/https://i0.wp.com/militaryhistorynow.com/wp-content/uploads/2015/08/1280px-Sargent_John_Singer_RA_-_Gassed_-_Google_Art_Project-e1439313963662.jpg?fit=650%2C242&ssl=1)
 
 
-
+### Kinds of Poison Gas
 
 ### How was it used in WWI?
 ![]({{site.baseurl}}/https://www.theworldwar.org/sites/default/files/2022-01/2013.66.92_0-first-usage-poison-gas.jpg)
@@ -22,7 +22,7 @@
 
 
 
-## Why was it so deadly?
+### Why was it so deadly?
 
 ![]({{site.baseurl}}/https://www.ncpedia.org/sites/default/files/wwi_gas_mask.jpg)
 
@@ -30,4 +30,4 @@
 
 
 
-## Countries that used Poison Gas
+
