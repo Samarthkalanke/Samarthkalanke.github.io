@@ -1,5 +1,6 @@
 ## What is Poison Gas?
-![]({{site.baseurl}}/https://docs.rferl.org/Infographics//2018/2018_04/2018_04_Chem/images/assets/hero-8e17a6822b.gif)
+![]({{site.baseurl}}//wwi-mask.gif)![wwi-mask.gif]({{site.baseurl}}/wwi-mask.gif)
+
 
 ![]({{site.baseurl}}/https://i0.wp.com/www.compoundchem.com/wp-content/uploads/2014/05/Chemical-Warfare-World-War-1-Poison-Gases.png?fit=1200%2C849&ssl=1)
 
