@@ -1,4 +1,4 @@
-
+## Poison Gas
 					<img src="/images/wwi-mask.gif" height = "25%" width= "25%" />
 ### What is Poison Gas?
 
@@ -27,7 +27,3 @@
 ![]({{site.baseurl}}/https://www.ncpedia.org/sites/default/files/wwi_gas_mask.jpg)
 
 ![]({{site.baseurl}}/https://thumbs.gfycat.com/AssuredSentimentalAmurminnow-max-1mb.gif)
-
-
-
-
