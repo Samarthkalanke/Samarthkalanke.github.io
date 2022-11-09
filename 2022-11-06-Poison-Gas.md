@@ -17,6 +17,8 @@
 <p style="text-align:center;"><img src="/images/chemicalwarfare.jpg" height = "25%" width= "25%" /></p>
 
 ### How was it used in WWI?
+
+
 <p style="text-align:center;"><img src="/images/blue-cross-shell.jpg" /></p>
 
 <p style="text-align:center;"><img src="/images/firstUsage.jpg" /></p>
