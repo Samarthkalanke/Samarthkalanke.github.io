@@ -21,7 +21,7 @@
 
 <p style="text-align:center;"><img src="/images/blue-cross-shell.jpg" /></p>
 
-<p style="text-align:center;"><img src="/images/firstUsage.jpg" /></p>
+<p style="text-align:center;"><img src="/images/firstUsage.jpg" height = "25%" width= "25%" /></p>
 
 <p style="text-align:center;"><img src="/images/gas-bombs.jpg" /></p>
 
