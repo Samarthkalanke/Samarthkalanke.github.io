@@ -1,5 +1,6 @@
 ## Poison Gas
-					<img src="/images/wwi-mask.gif" height = "25%" width= "25%" />
+
+<img src="/images/wwi-mask.gif" height = "25%" width= "25%" align="center" />
 ### What is Poison Gas?
 
 
