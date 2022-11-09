@@ -14,7 +14,7 @@
 
 
 ### Kinds of Poison Gas
-<p style="text-align:center;"><img src="/images/chemicalwarfare.jpg" height = "40%" width= "40%" /></p>
+<p style="text-align:center;"><img src="/images/chemicalwarfare.jpg" height = "60%" width= "60%" /></p>
 
 ### How was it used in WWI?
 
