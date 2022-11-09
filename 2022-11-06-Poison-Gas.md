@@ -1,7 +1,9 @@
 ## Poison Gas
 
-<p style="text-align:center;"><img src="/images/wwi-mask.gif" height = "25%" width= "25%" align="center" /></p>
+<p style="text-align:center;"><img src="/images/wwi-mask.gif" height = "25%" width= "25%" /></p>
 ### What is Poison Gas?
+
+
 
 
 
@@ -12,8 +14,15 @@
 
 
 ### Kinds of Poison Gas
+<p style="text-align:center;"><img src="/images/chemicalwarfare.jpg" height = "25%" width= "25%" /></p>
 
 ### How was it used in WWI?
+<p style="text-align:center;"><img src="/images/blue-cross-shell.jpg" /></p>
+
+<p style="text-align:center;"><img src="/images/firstUsage.jpg" /></p>
+
+<p style="text-align:center;"><img src="/images/gas-bombs.jpg" /></p>
+
 ![]({{site.baseurl}}/https://www.theworldwar.org/sites/default/files/2022-01/2013.66.92_0-first-usage-poison-gas.jpg)
 
 ![]({{site.baseurl}}/https://simonjoneshistorian.files.wordpress.com/2014/02/blue-cross-shell.jpg)
