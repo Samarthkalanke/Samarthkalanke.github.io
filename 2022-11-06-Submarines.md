@@ -20,5 +20,3 @@ The submarine was majorly used in World War I by Germany in order to attack othe
 
 The weapon changed the nature of war because it provided more opportunity in sea to attack other vessels. Submarines were also used for other humanitarian efforts such as recovering vessels that have already sunk.This weapon changed the course for war by easily passing through naval defenses from other countries. The sleek frame for submarines makes it practically invisible to other people and can attack/destroy other ships with ease. Although it does not have heavy firepower, submarines make it easier for infiltration and spying on other countries as well. 
 
-[https://www.iwm.org.uk/history/voices-of-the-first-world-war-the-submarine-war](https://www.iwm.org.uk/history/voices-of-the-first-world-war-the-submarine-war)
-[https://www.loc.gov/item/today-in-history/april-11#:~:text=Proposals%20for%20underwater%20boats%20date,to%20work%20out%20design%20problems](https://www.loc.gov/item/today-in-history/april-11#:~:text=Proposals%20for%20underwater%20boats%20date,to%20work%20out%20design%20problems)
