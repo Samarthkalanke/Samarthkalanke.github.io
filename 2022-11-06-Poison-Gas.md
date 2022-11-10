@@ -12,8 +12,7 @@ Toxic warfare was used since olden times, and in 1912 a gas called the tear gas 
 
 [[History.com "This Day in History April 22"] https://www.history.com/this-day-in-history/germans-introduce-poison-gas](https://www.history.com/this-day-in-history/germans-introduce-poison-gas "[History.com "This Day in History April 22"]")
 
-[[Gas in The Great War
-James Patton, BS] https://www.kumc.edu/school-of-medicine/academics/departments/history-and-philosophy-of-medicine/archives/wwi/essays/medicine/gas-in-the-great-war.html]
+[[Gas in The Great War by James Patton, BS] [https://www.kumc.edu/school-of-medicine/academics/departments/history-and-philosophy-of-medicine/archives/wwi/essays/medicine/gas-in-the-great-war.html](https://www.kumc.edu/school-of-medicine/academics/departments/history-and-philosophy-of-medicine/archives/wwi/essays/medicine/gas-in-the-great-war.html)]
 
 ### What battles was the weapon first used in?
 
