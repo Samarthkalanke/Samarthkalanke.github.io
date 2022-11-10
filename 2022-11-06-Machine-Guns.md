@@ -16,6 +16,6 @@ The Machine gun was first used in 1887 by the German armies. The German version 
 Machine guns changed warfare significantly, by changing war tactics used by countries. Warfare is always evolving, nothing will stay the same forever. Machine gun designs are always changing lighter and more accurate yearly. In 2015, the CT LMG was brought to introduction which only weighed 14.5 pounds. Compared to the WW1 machine guns this is significantly less. 
 
 Work Cited
-https://online.norwich.edu/academic-programs/resources/how-machine-gun-changed-combat-during-world-war-i
+[https://online.norwich.edu/academic-programs/resources/how-machine-gun-changed-combat-during-world-war-i](https://online.norwich.edu/academic-programs/resources/how-machine-gun-changed-combat-during-world-war-i)
 
-https://medium.com/war-is-boring/maxims-machine-gun-slaughtered-hundreds-of-thousands-of-people-f9e068f5148#:~:text=In%20just%20one%20day%20during,German%20version%20of%20the%20Maxim.
+[https://medium.com/war-is-boring/maxims-machine-gun-slaughtered-hundreds-of-thousands-of-people-f9e068f5148#:~:text=In%20just%20one%20day%20during,German%20version%20of%20the%20Maxim](https://medium.com/war-is-boring/maxims-machine-gun-slaughtered-hundreds-of-thousands-of-people-f9e068f5148#:~:text=In%20just%20one%20day%20during,German%20version%20of%20the%20Maxim)
