@@ -1,41 +1,26 @@
 ## Poison Gas
 
 <p style="text-align:center;"><img src="/images/wwi-mask.gif" height = "25%" width= "25%" /></p>
-### What is Poison Gas?
 
-
-
-
-
-![]({{site.baseurl}}/https://i0.wp.com/www.compoundchem.com/wp-content/uploads/2014/05/Chemical-Warfare-World-War-1-Poison-Gases.png?fit=1200%2C849&ssl=1)
-
-
-![]({{site.baseurl}}/https://i0.wp.com/militaryhistorynow.com/wp-content/uploads/2015/08/1280px-Sargent_John_Singer_RA_-_Gassed_-_Google_Art_Project-e1439313963662.jpg?fit=650%2C242&ssl=1)
-
-
-### Kinds of Poison Gas
-<p style="text-align:center;"><img src="/images/chemicalwarfare.jpg" height = "60%" width= "60%" /></p>
-
-### How was it used in WWI?
-
+### How was the weapon created?
 
 <p style="text-align:center;"><img src="/images/blue-cross-shell.jpg" /></p>
+<p style="text-align:center;"><img src="/images/gas-bombs.jpg" /></p>
+
+Toxic warfare was used since olden times, and in 1912 a gas called the tear gas was used by the French and it was used in police operations. The gas they used was either xylyl bromide, which was described as smelling pleasant and aromatic, or ethyl bromoacetate, which was described as fruity and strong. These gasses have been around for a long time and are naturally made but the actual shell was made by the head of the German Gas Department Fritz Habar in 1914. That is the same year they first fired in the early parts of World war 1
+[https://www.history.com/this-day-in-history/germans-introduce-poison-gas]
+[https://www.kumc.edu/school-of-medicine/academics/departments/history-and-philosophy-of-medicine/archives/wwi/essays/medicine/gas-in-the-great-war.html]
+
+### What battles was the weapon first used in?
 
 <p style="text-align:center;"><img src="/images/firstUsage.jpg" height = "25%" width= "25%" /></p>
 
-<p style="text-align:center;"><img src="/images/gas-bombs.jpg" /></p>
+As mentioned before the actual use of the gas was used in France in 1912 but really the actual shell that it was held in was created and used during the earlier parts of World War I. In October of 1914 the Germans placed small tear gas canisters and placed them in shells and launched them on the Nueve Chapelle, France. However the attack was not successful, but in 1915 the Germans filled the canisters with pure xylyl bromide which was used to launch an attack on the Russian eastern front in Bolimov. Most of the gas froze due to the winter but it still killed over 1000 soldiers.  There were different gases tried for WWI. The most commonly used was the Mustard gas as it was colorless and odorless in its purest form. Although, the gas use in WWI smelled like garlic as it was impure.
+[https://www.kumc.edu/school-of-medicine/academics/departments/history-and-philosophy-of-medicine/archives/wwi/essays/medicine/gas-in-the-great-war.html]
+[https://www.iwm.org.uk/history/how-gas-became-a-terror-weapon-in-the-first-world-war#:~:text=The%20gas%20inflicted%20significant%20casualties,with%20prolonged%20exposure%20proving%20fatal]
 
-![]({{site.baseurl}}/https://www.theworldwar.org/sites/default/files/2022-01/2013.66.92_0-first-usage-poison-gas.jpg)
+### How did the weapon change the nature of war? Is this weapon (or a version of it) still used today? 
+<p style="text-align:center;"><img src="/images/gassed.jpg"/></p>
 
-![]({{site.baseurl}}/https://simonjoneshistorian.files.wordpress.com/2014/02/blue-cross-shell.jpg)
-
-![]({{site.baseurl}}/https://www.researchgate.net/profile/Jasper-Hardesty/publication/269724051/figure/fig4/AS:758261380812807@1557795009798/Hand-held-gas-bomb-Contributor-Benjamin-Hirschfeld-on-behalf-of-Christoph-Herrmann_Q320.jpg)
-
-
-
-
-### Why was it so deadly?
-
-![]({{site.baseurl}}/https://www.ncpedia.org/sites/default/files/wwi_gas_mask.jpg)
-
-![]({{site.baseurl}}/https://thumbs.gfycat.com/AssuredSentimentalAmurminnow-max-1mb.gif)
+The weapon was used in multiple smaller battles during world war I the gasses were used to kill many people and cause a great deal of casualties for the Canadian and British troops and caused panic amongst the French colonial troops. It was used a lot at the beginning of the war and caused some serious setbacks for the allies. However chemical weapons have been outlawed for over 90 years and have been outlawed comprehensively in 1997 by the Chemical Weapons Convention which bans any sort of use or production of any type of chemical weapons. Although recently it was used in Syria in 2013 killing more than 1400 people although done illegally.
+[https://www.armscontrol.org/events/2018-10/past-present-future-chemical-weapons-convention#:~:text=Chemical%20weapons%20use%20has%20been,verifiable%20destruction%20of%20remaining%20stockpiles]
