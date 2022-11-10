@@ -10,9 +10,10 @@
 
 Toxic warfare was used since olden times, and in 1912 a gas called the tear gas was used by the French and it was used in police operations. The gas they used was either xylyl bromide, which was described as smelling pleasant and aromatic, or ethyl bromoacetate, which was described as fruity and strong. These gasses have been around for a long time and are naturally made but the actual shell was made by the head of the German Gas Department Fritz Habar in 1914. That is the same year they first fired in the early parts of World war 1
 
-[[History.com "This Day in History April 22"]https://www.history.com/this-day-in-history/germans-introduce-poison-gas](https://www.history.com/this-day-in-history/germans-introduce-poison-gas "[History.com "This Day in History April 22"]")
-[https://www.history.com/this-day-in-history/germans-introduce-poison-gas](https://www.history.com/this-day-in-history/germans-introduce-poison-gas)
-[https://www.kumc.edu/school-of-medicine/academics/departments/history-and-philosophy-of-medicine/archives/wwi/essays/medicine/gas-in-the-great-war.html](https://www.kumc.edu/school-of-medicine/academics/departments/history-and-philosophy-of-medicine/archives/wwi/essays/medicine/gas-in-the-great-war.html)
+[[History.com "This Day in History April 22"] https://www.history.com/this-day-in-history/germans-introduce-poison-gas](https://www.history.com/this-day-in-history/germans-introduce-poison-gas "[History.com "This Day in History April 22"]")
+
+[[Gas in The Great War
+James Patton, BS] https://www.kumc.edu/school-of-medicine/academics/departments/history-and-philosophy-of-medicine/archives/wwi/essays/medicine/gas-in-the-great-war.html]
 
 ### What battles was the weapon first used in?
 
