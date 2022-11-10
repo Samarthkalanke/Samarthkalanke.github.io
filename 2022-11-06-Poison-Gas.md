@@ -4,7 +4,7 @@
 
 ### How was the weapon created?
 
-<p style="text-align:center;"><img src="/images/blue-cross-shell.jpg" /></p>
+<p style="text-align:center;"><img src="/images/blue-cross-shell.jpg" height = "50%" width= "50%" /></p>
 <p style="text-align:center;"><img src="/images/gas-bombs.jpg" /></p>
 
 Toxic warfare was used since olden times, and in 1912 a gas called the tear gas was used by the French and it was used in police operations. The gas they used was either xylyl bromide, which was described as smelling pleasant and aromatic, or ethyl bromoacetate, which was described as fruity and strong. These gasses have been around for a long time and are naturally made but the actual shell was made by the head of the German Gas Department Fritz Habar in 1914. That is the same year they first fired in the early parts of World war 1
